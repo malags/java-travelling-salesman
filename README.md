@@ -1,3 +1,5 @@
+This project is an homework for the artificial intelligence course, and it tries to find solutions to the travelling salesman problem by utilizing machine learning algorithms.
+
 The system:
 
 the result of java --version is:
